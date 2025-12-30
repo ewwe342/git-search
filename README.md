@@ -1,4 +1,4 @@
-[Скачать git-search.exe](https://example.com/git-search.exe)
+[Скачать git-search.exe](https://github.com/ewwe342/git-search/blob/main/git-search.exe)
 
 ---
 
